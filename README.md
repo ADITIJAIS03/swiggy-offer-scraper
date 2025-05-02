@@ -5,7 +5,7 @@ This Python script automates the process of scraping restaurant offers from Swig
 ## 📌 Features
 - Scrapes restaurants and offer details from multiple cities
 - Filters offers containing specific keywords (like "item")
-- Excludes chain restaurants (e.g., KFC, McDonald's, Domino's, etc.)
+- Excludes central chain restaurants (e.g., KFC, McDonald's, Domino's, etc.)
 - Saves cleaned data into an Excel file
 
 ## 🛠️ Tech Stack
